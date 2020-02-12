@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hpsan/sample-flask-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mime": "1.3.6"
   }
 }
